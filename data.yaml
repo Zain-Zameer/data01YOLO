@@ -1,0 +1,4 @@
+names:
+  0: bee
+path: .
+train: train.txt
